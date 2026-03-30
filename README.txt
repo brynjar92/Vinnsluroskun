@@ -1,0 +1,1 @@
+Uppfærð iPhone-væn útgáfa með v3 forsendum: 30 MW hámarksafl og uppkeyrsla 1,50 MW/mín. Settu skrárnar í GitHub repo, kveiktu á Pages fyrir main/root, opnaðu svo slóðina í Safari og veldu Add to Home Screen.
